@@ -1,4 +1,4 @@
-<img src="encg.png" style="height:64px;margin-right:32px"/>
+<img src="Capture d'écran 2025-10-21 231745.png" style="height:64px;margin-right:32px"/>
 
 **Projets Odoo ERP pour Étudiants de Master : Innovation et Personnalisation Avancée**
 
