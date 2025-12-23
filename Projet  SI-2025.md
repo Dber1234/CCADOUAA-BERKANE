@@ -2,4 +2,4 @@
 
 **Projets Odoo ERP pour Étudiants de Master : Innovation et Personnalisation Avancée**
 
-- **Conception et Implémentation d'un Module Odoo Personnalisé pour la Gestion de Projet Agile avec Intégration JIRA/GitLab** : Développement d'un module pour les cycles agiles (scrums, sprints, backlogs), avec analyse des besoins, modélisation de données et intégration d'outils tiers.
+- **Exploration et Implémentation d'un Système de Reporting Financier Avancé sur Odoo, avec Consolidation Multi-Sociétés et Analyses Prédictives : Consolidation multi-entités, rapports personnalisés et prédictions financières.** : Exploration et Implémentation d'un Système de Reporting Financier Avancé sur Odoo, avec Consolidation Multi-Sociétés et Analyses Prédictives : Consolidation multi-entités, rapports personnalisés et prédictions financières.
